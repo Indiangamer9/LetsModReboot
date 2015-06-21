@@ -1,0 +1,12 @@
+# Keys
+keys.letsmodreboot.category=Let's Mod Reboot
+
+# Creative Tabs
+itemGroup.letsmodreboot=Let's Mod Reboot
+
+# Items
+# example: item.letsmodreboot:mapleLeaf.name=Maple Leaf of Awesomeness
+item.letsmodreboot:gem.name=GODMODE
+
+#Blocks
+# example: tile.letsmodreboot:flag.name=Canadian Flag of Awesomeness
