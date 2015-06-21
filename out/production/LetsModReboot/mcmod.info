@@ -1,0 +1,21 @@
+[
+{
+  "modid": "letsmodreboot",
+  "name": "Lets Mod Reboot",
+  "description": "Learning to Mod",
+  "version": "0.1a",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "indiangamer9"
+  ],
+  "credits": "Shout out to all my pears, I love you!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

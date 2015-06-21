@@ -6,5 +6,10 @@ public class Names
     {
         public static final String GEM = "gem";
     }
+
+    public static final class Blocks
+    {
+        public static final String COMPRESSED_GEM = "compressedGem";
+    }
 }
 
